@@ -1,0 +1,14 @@
+[
+    {
+        "rule": 1,
+        "text": "up and down"
+    },
+    {
+        "rule": 2,
+        "text": "down and down"
+    },
+    {
+        "rule": 3,
+        "text": "up and up"
+    }
+]
