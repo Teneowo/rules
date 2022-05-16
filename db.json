@@ -2,15 +2,23 @@
     "rules": [
         {
             "rule": 1,
-            "text": "up and down"
+            "text": "Tap to elevate your ninja"
         },
         {
             "rule": 2,
-            "text": "down and down"
+            "text": "Let go from a tap to let the ninja fall"
         },
         {
             "rule": 3,
-            "text": "up and up"
+            "text": "Avoid the pipes!"
+        },
+        {
+            "rule": 4,
+            "text": "Your score increases by 1 every time you pass a pipe"
+        },
+        {
+            "rule": 5,
+            "text": "Try to break your record!"
         }
     ]
 }
